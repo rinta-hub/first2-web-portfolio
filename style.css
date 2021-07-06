@@ -6,19 +6,20 @@ body{
 }
 h1{
     font-size: 50px;
+    color: rgb(5, 5, 228)
 }
 h6{
     color:grey;
 }
-.orange{
-    color: tomato;
+h3{
+    color: blue;
 }
 p{
-    color: grey;
+    color:grey;
     margin-bottom: 5%;
 }
 span{
-    color: tomato;
+    color: rgb(243, 43, 233);
     text-shadow: 2px 2px 4px #000000;
 }
 .flexible-container{
@@ -28,28 +29,30 @@ span{
 .half-width{
     width: 50%;
     padding-left: 5%;
-    padding-right: 10%;
+    padding-right: 5%;
 }
 img{
     width: 80%;
 }
 #unique-img{
     width: 50%;
-    margin-top: 10%;
     margin-left: 20%;
 }
 .link-button{
     text-decoration: none;
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: 700;
-    background-image:linear-gradient(orange, tomato);
+    background-image:linear-gradient(rgb(250, 29, 232), rgb(71, 129, 255));
     padding: 10px 40px;
     border-radius: 5px;
+
 }
 .others{
-    background-image: url(images/7.png);
+    background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
-    width: 100%;
+    width:100%;
+    padding-top: 5%;
+
 }
 .project{
     text-align:center;
@@ -64,11 +67,11 @@ img{
     padding-left: 2%;
     border-radius: 10px;
     border: 10px solid whitesmoke;
-    box-shadow: 10px 10px 30px rgb(238, 122, 102);
+    box-shadow: 10px 10px 30px rgb(247, 148, 247);
 
 }
 .Followers-count{
-box-shadow: 10px 10px 30px rgb(238, 122, 102);
+box-shadow: 10px 10px 30px rgb(247, 148, 247);
 margin-left: 5%;
 margin-right: 5%;
 padding-top: 2%;
@@ -79,7 +82,7 @@ border-radius: 20px;
 }
 footer h3{
     text-align: center;
-    color: tomato;
+    color: rgb(44, 92, 248);
 
 }
 footer{
